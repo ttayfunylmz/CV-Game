@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - BookStand
+  - AboutBookStand
+  - WebsitesBookStand
+  - ExperienceBookStand
+  - CertificatesBookStand
+  - SkillsBookStand
+  - ContactBookStand
+  - EducationBookStand
+  - ReferencesBookStand
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3601180485
+    locked: 0
+  - name: Text
+    uniqueID: 472996989
+    locked: 0
+  - name: BookStand
+    uniqueID: 696568985
+    locked: 0
+  - name: Player
+    uniqueID: 4157393879
+    locked: 0
+  - name: Logos
+    uniqueID: 3624979555
+    locked: 0
+  - name: SceneTransition
+    uniqueID: 249264893
+    locked: 0
